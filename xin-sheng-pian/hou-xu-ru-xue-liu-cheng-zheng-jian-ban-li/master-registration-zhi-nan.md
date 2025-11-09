@@ -30,17 +30,17 @@ Portal 邮箱即后缀是 @connect.hku.hk 的邮箱，它是基于 Microsoft 邮
 点击此处前往 HKU Portal，使用邮件中提供的 Portal 邮箱和 PIN 登录。\
 
 
-<figure><img src="../.gitbook/assets/chunk-0-img-0 (6).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chunk-0-img-0 (6).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### 2. 点击 Master Registration
 
-<figure><img src="../.gitbook/assets/005b1621790de69465270815b51188a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/005b1621790de69465270815b51188a.png" alt=""><figcaption></figcaption></figure>
 
 ## 3. 填写相关信息
 
 每一页填写之后点击“Save & Next”最终确认之后点击“Submit”。
 
-<figure><img src="../.gitbook/assets/ebd93ea4e112b6c3d456e6c00a0a25e.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ebd93ea4e112b6c3d456e6c00a0a25e.png" alt=""><figcaption></figcaption></figure>
 
 ## 4. 注意事项
 
@@ -71,3 +71,9 @@ Portal 邮箱即后缀是 @connect.hku.hk 的邮箱，它是基于 Microsoft 邮
 | 镇       | Town                |
 | 市       | City                |
 | 省       | Prov.               |
+
+以下是两份学校官方的指南
+
+{% file src="../../.gitbook/assets/5.2.1 Guideline_to_online_Master_Registration.pdf" %}
+
+{% file src="../../.gitbook/assets/5.2.2 student registration guideline.pdf" %}

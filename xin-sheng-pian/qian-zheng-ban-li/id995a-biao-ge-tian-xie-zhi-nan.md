@@ -39,20 +39,20 @@
 
 ### Sample:
 
-![](../../.gitbook/assets/chunk-0-img-0.jpeg)
+![](<../../.gitbook/assets/chunk-0-img-0 (1).jpeg>)
 
 若已持有港澳通行证，请在旅行證件類別中填写 Exit/Entry Permit for Travelling to and from Hong Kong and Macau(港澳通行证)
 
 并按自己通行证上面的相关信息填写号码、签发地点、日期、届满日期等信息。若尚无通行证或正在办理，这两行可空着不填。
 
-![](../../.gitbook/assets/chunk-0-img-1.jpeg)
+![](<../../.gitbook/assets/chunk-0-img-1 (1).jpeg>)
 
 每一页只要填写了就需要在页脚处签字\
 鉴于大部分学生已满 16 周岁，所以需将/父/母/合法監護人/parent/legal guardian 一并删去，**注意英文也要删去！！！**
 
 ### 第二页 PAGE 2
 
-![chunk-0-img-2.jpeg](../../.gitbook/assets/chunk-0-img-2.jpeg)
+![chunk-0-img-2.jpeg](<../../.gitbook/assets/chunk-0-img-2 (1).jpeg>)
 
 * 住址需要填写**英文**，大部分内容写拼音即可
 * 照片的尺寸请**严格**按照表上要求，尺寸介于 **50×40 mm−55×45 mm50×40 mm−55×45 mm** 之间，同时可以用剪刀调整一下尺寸大小。扫描及邮寄的版本都**务必确认照片是彩色的、清晰的**
@@ -99,7 +99,7 @@
 4. 总计部分要将单位换算成每年，可填 220,000 港元左右。
 5. 简述一般可以不填。
 
-![chunk-0-img-3.jpeg](../../.gitbook/assets/chunk-0-img-3.jpeg)
+![chunk-0-img-3.jpeg](<../../.gitbook/assets/chunk-0-img-3 (1).jpeg>)
 
 * 在 AO 网站注册时选择 **I will support myself** 的同学请填写前两项，即 **Deposit** 和 **Income** 两项。选择 **I have a financial sponsor** (一般是父母)的同学请填写第三项，即 **Others** 这一项。
 * 关于 Deposit：如果财产证明的银行存款是在自己名字的账户下面(需要有 10 至 15 万人民币的存款)，请在第一栏 **Deposit Amount** 填写金额数目，简述可填"**applicant's saving**" 或不填。
@@ -108,7 +108,7 @@
 *   关于 Others：如果财产证明的银行存款是在父母名字的账户下面(同上，需要有 10 至 15 万人民币的存款)，请在第三栏 **Others Amount** 填写金额数目，简述说明 "**sponsored by parents**"。**Financial Proof** 中的账户余额需 ⩾⩾ 填写的金额数。\
 
 
-    <figure><img src="../../.gitbook/assets/chunk-0-img-4.jpeg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/chunk-0-img-4 (1).jpeg" alt=""><figcaption></figcaption></figure>
 * 在申请前一年内在香港修读了由拥有学位颁授权香港高等教育学院开办的短期课程的同学，请选择 YES 并写明课程名称，修读学校及修读时间，注意用英文填写。
 * 否则请选择 NO 即可。
 * 签名和日期每页都相同，请划掉无关选项后签名(中文即可)。
@@ -117,7 +117,7 @@
 
 这页按照个人实际情况，该打勾的打勾，该划掉的划掉。签名与日期同上。
 
-![chunk-0-img-5.jpeg](../../.gitbook/assets/chunk-0-img-5.jpeg)
+![chunk-0-img-5.jpeg](<../../.gitbook/assets/chunk-0-img-5 (1).jpeg>)
 
 <mark style="color:red;">注意 (vi) - (x) 需要将带+号的不适用的内容划去。 (中英文都要!)</mark>
 
@@ -130,7 +130,7 @@
 \
 
 
-<figure><img src="../../.gitbook/assets/chunk-0-img-6.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chunk-0-img-6 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">P7 不用填写</mark>
 

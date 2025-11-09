@@ -28,7 +28,9 @@
   * [选Hall综合指南](xin-sheng-pian/xuan-hall-zhi-nan/xuan-hall-zong-he-zhi-nan.md)
   * [Hall Charges](xin-sheng-pian/xuan-hall-zhi-nan/hall-charges.md)
   * [各hall详细介绍](xin-sheng-pian/xuan-hall-zhi-nan/ge-hall-xiang-xi-jie-shao.md)
-* [Master Registration 指南](xin-sheng-pian/master-registration-zhi-nan.md)
+* [后续入学流程&证件办理](xin-sheng-pian/hou-xu-ru-xue-liu-cheng-zheng-jian-ban-li/README.md)
+  * [Master Registration 指南](xin-sheng-pian/hou-xu-ru-xue-liu-cheng-zheng-jian-ban-li/master-registration-zhi-nan.md)
+  * [如何网上预约香港身份证办理及预填申请表格](xin-sheng-pian/hou-xu-ru-xue-liu-cheng-zheng-jian-ban-li/ru-he-wang-shang-yu-yue-xiang-gang-shen-fen-zheng-ban-li-ji-yu-tian-shen-qing-biao-ge.md)
 
 ## 日常篇
 

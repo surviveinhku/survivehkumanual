@@ -31,9 +31,9 @@
 ### 3. 签名
 
 这里是由父母或内地监护人进行签名并填写日期，注意要划去不适用的选项\
-![chunk-0-img-2.jpeg](<../../.gitbook/assets/chunk-0-img-2 (1).jpeg>)
+![chunk-0-img-2.jpeg](<../../.gitbook/assets/chunk-0-img-2 (1) (1).jpeg>)
 
 这里是由在港监护人进行签名，或在上传文件之后，由港大盖章。即如果是选择提名港大 作为在港监护人的同学，这一项不需要填写。\
-![chunk-0-img-3.jpeg](<../../.gitbook/assets/chunk-0-img-3 (1).jpeg>)
+![chunk-0-img-3.jpeg](<../../.gitbook/assets/chunk-0-img-3 (1) (1).jpeg>)
 
 > 编写人：B27 冯雪菲

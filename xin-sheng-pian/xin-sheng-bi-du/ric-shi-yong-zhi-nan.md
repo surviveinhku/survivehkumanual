@@ -42,7 +42,7 @@ RIC APP: "RIC杂货铺"功能介绍及下载指南\
 *   输入关键字获得相关推送\
 
 
-    <figure><img src="../../.gitbook/assets/chunk-0-img-4 (1).jpeg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/chunk-0-img-4 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 如果有任何疑问或想寻求帮助, 也可以通过发信息至公众号, 后台工作人员会尽力解答。
 
@@ -53,7 +53,7 @@ RIC公众号会持续更新不同类型的推送, 内容包括但不限于校园
 回复关键词的方法: 见前文"公众号聊天框"部分。\
 搜索关键词的方法: 打开RIC微信公众号"港大RIC锐克", 点击右上角放大镜按钮, 输入想要搜索的关键词, 便可收到相关推送。
 
-![chunk-0-img-5.jpeg](<../../.gitbook/assets/chunk-0-img-5 (1).jpeg>)
+![chunk-0-img-5.jpeg](<../../.gitbook/assets/chunk-0-img-5 (1) (1).jpeg>)
 
 四、维权平台
 
@@ -61,7 +61,7 @@ RIC公众号会持续更新不同类型的推送, 内容包括但不限于校园
 全力帮助同学们, 积极与校方沟通, 保障全体内地本科生权益。遇到侵权事件不要害怕,\
 RIC会是你坚强的后盾!
 
-![chunk-0-img-6.jpeg](<../../.gitbook/assets/chunk-0-img-6 (1).jpeg>)
+![chunk-0-img-6.jpeg](<../../.gitbook/assets/chunk-0-img-6 (1) (1).jpeg>)
 
 五、RIC选课平台
 
@@ -69,13 +69,13 @@ RIC会是你坚强的后盾!
 
 * 功能一: 排课表
 
-![](../../.gitbook/assets/chunk-0-img-8.jpeg)
+![](<../../.gitbook/assets/chunk-0-img-8 (1).jpeg>)
 
 * 功能二：所有课程的信息及过往学长姐上课感受+评价
 
 搜索并点击自己想要了解的课程，便可以看到过往学长姐们的大致成绩分布，对这门课程内容、work load、教授等的评价，直观了解每门课程的真实样貌。
 
-![](../../.gitbook/assets/chunk-0-img-10.jpeg)
+![](<../../.gitbook/assets/chunk-0-img-10 (1).jpeg>)
 
 分分钟找到好龟课程以及宝藏Professors和Tutors哦！！
 
