@@ -33,7 +33,7 @@
 根据 Visa 文件中 Notification Slip for Entry Visa / Permit 左上角显示的申请档案编号填写相关信息。\
 
 
-<figure><img src="../../.gitbook/assets/chunk-0-img-0.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chunk-0-img-0 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 \
 

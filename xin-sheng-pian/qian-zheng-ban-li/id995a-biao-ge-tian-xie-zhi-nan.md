@@ -39,20 +39,20 @@
 
 ### Sample:
 
-![](<../../.gitbook/assets/chunk-0-img-0 (1).jpeg>)
+![](<../../.gitbook/assets/chunk-0-img-0 (1) (1).jpeg>)
 
 若已持有港澳通行证，请在旅行證件類別中填写 Exit/Entry Permit for Travelling to and from Hong Kong and Macau(港澳通行证)
 
 并按自己通行证上面的相关信息填写号码、签发地点、日期、届满日期等信息。若尚无通行证或正在办理，这两行可空着不填。
 
-![](<../../.gitbook/assets/chunk-0-img-1 (1).jpeg>)
+![](<../../.gitbook/assets/chunk-0-img-1 (1) (1).jpeg>)
 
 每一页只要填写了就需要在页脚处签字\
 鉴于大部分学生已满 16 周岁，所以需将/父/母/合法監護人/parent/legal guardian 一并删去，**注意英文也要删去！！！**
 
 ### 第二页 PAGE 2
 
-![chunk-0-img-2.jpeg](<../../.gitbook/assets/chunk-0-img-2 (1).jpeg>)
+![chunk-0-img-2.jpeg](<../../.gitbook/assets/chunk-0-img-2 (1) (1).jpeg>)
 
 * 住址需要填写**英文**，大部分内容写拼音即可
 * 照片的尺寸请**严格**按照表上要求，尺寸介于 **50×40 mm−55×45 mm50×40 mm−55×45 mm** 之间，同时可以用剪刀调整一下尺寸大小。扫描及邮寄的版本都**务必确认照片是彩色的、清晰的**

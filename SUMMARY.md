@@ -36,6 +36,15 @@
   * [RIC 选课平台指南](xin-sheng-pian/xuan-ke-jian-yi-ge-zhuan-ye-jian-yi-dian-ji-ci-chu/ric-xuan-ke-ping-tai-zhi-nan.md)
 * [来港准备and来港生活](xin-sheng-pian/lai-gang-zhun-bei-and-lai-gang-sheng-huo/README.md)
   * [新生来港物品清单](xin-sheng-pian/lai-gang-zhun-bei-and-lai-gang-sheng-huo/xin-sheng-lai-gang-wu-pin-qing-dan.md)
+  * [交通指南汇总(TODO)](xin-sheng-pian/lai-gang-zhun-bei-and-lai-gang-sheng-huo/jiao-tong-zhi-nan-hui-zong-todo.md)
+  * [信用卡小对比](xin-sheng-pian/lai-gang-zhun-bei-and-lai-gang-sheng-huo/xin-yong-ka-xiao-dui-bi.md)
+  * [过关方式](xin-sheng-pian/lai-gang-zhun-bei-and-lai-gang-sheng-huo/guo-guan-fang-shi.md)
+  * [拿着Student Visa如何在香港打工](xin-sheng-pian/lai-gang-zhun-bei-and-lai-gang-sheng-huo/na-zhe-student-visa-ru-he-zai-xiang-gang-da-gong.md)
+* [奇妙小教程（from RIC）](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/README.md)
+  * [RIC 电话卡选择指南](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/ric-dian-hua-ka-xuan-ze-zhi-nan.md)
+  * [科学上网](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/ke-xue-shang-wang.md)
+  * [宋奖申请攻略（TODO)](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/song-jiang-shen-qing-gong-le-todo.md)
+* [Page 1](xin-sheng-pian/page-1.md)
 
 ## 日常篇
 
