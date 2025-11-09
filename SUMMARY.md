@@ -28,7 +28,7 @@
   * [选Hall综合指南](xin-sheng-pian/xuan-hall-zhi-nan/xuan-hall-zong-he-zhi-nan.md)
   * [Hall Charges](xin-sheng-pian/xuan-hall-zhi-nan/hall-charges.md)
   * [各hall详细介绍](xin-sheng-pian/xuan-hall-zhi-nan/ge-hall-xiang-xi-jie-shao.md)
-* [Page 1](xin-sheng-pian/page-1.md)
+* [Master Registration 指南](xin-sheng-pian/master-registration-zhi-nan.md)
 
 ## 日常篇
 
