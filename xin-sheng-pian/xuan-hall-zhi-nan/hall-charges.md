@@ -4,9 +4,7 @@
 >
 >
 
-w
-
-注：以下为2024-2025收费标准&#x20;
+注：以下为2024-2025收费标准f fff
 
 <p align="center">The University of Hong Kong </p>
 
