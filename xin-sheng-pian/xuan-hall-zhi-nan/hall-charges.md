@@ -2,9 +2,9 @@
 
 > 冷知识，每个宿舍的费用是不一样的。
 >
->
+> d
 
-注：以下为2024-2025收费标准f fff
+注：以下为2024-2025收费标准
 
 <p align="center">The University of Hong Kong </p>
 
