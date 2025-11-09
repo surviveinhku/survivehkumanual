@@ -44,7 +44,10 @@
   * [RIC 电话卡选择指南](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/ric-dian-hua-ka-xuan-ze-zhi-nan.md)
   * [科学上网](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/ke-xue-shang-wang.md)
   * [宋奖申请攻略（TODO)](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/song-jiang-shen-qing-gong-le-todo.md)
-* [Page 1](xin-sheng-pian/page-1.md)
+* [校园生活](xin-sheng-pian/xiao-yuan-sheng-huo/README.md)
+  * [港大黑话](xin-sheng-pian/xiao-yuan-sheng-huo/gang-da-hei-hua.md)
+  * [移动支付缴学费（TODO)](xin-sheng-pian/xiao-yuan-sheng-huo/yi-dong-zhi-fu-jiao-xue-fei-todo.md)
+  * [港大主要教学区中英文对照（TODO)](xin-sheng-pian/xiao-yuan-sheng-huo/gang-da-zhu-yao-jiao-xue-qu-zhong-ying-wen-dui-zhao-todo.md)
 
 ## 日常篇
 

@@ -1,8 +1,6 @@
 # Hall Charges
 
 > 冷知识，每个宿舍的费用是不一样的。
->
-> d
 
 注：以下为2024-2025收费标准
 
@@ -27,6 +25,6 @@
 
 <p align="right">July 2024</p>
 
-<figure><img src="../../.gitbook/assets/cf53f87f7af1145a6fbe33fc34b185d.png" alt=""><figcaption></figcaption></figure>
+> 凭借我的直觉判断，第一次看到这个表的时候你们多半没法把舍堂的中文名和英文名对照起来，但是我并没有打算给你们附上中英对照版，因为我要去港大B1口吃麦当劳了。
 
-https://www.cedars.hku.hk/sections/Accommodation/files/hallcharges.pdf#:\~:text=Apart%20from%20the%20lodging%20fee%20%28and%20the%20compulsory,and%2For%20smartcard%20deposits%2C%20etc.%20on%20a%20semester%20basis.
+<figure><img src="../../.gitbook/assets/cf53f87f7af1145a6fbe33fc34b185d.png" alt=""><figcaption></figcaption></figure>
