@@ -1,3 +1,3 @@
 # 新生必读
 
-就是说，你们得读一读
+_**WHATEVER HAPPENS, HAPPENS**_

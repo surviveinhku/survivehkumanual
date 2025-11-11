@@ -1,3 +1,3 @@
 # 后记
 
-> _**YOU'RE GONNA CARRY THAT WEIGHT**_ &#x20;
+_**SEE YOU SPACE COWBOY...**_
