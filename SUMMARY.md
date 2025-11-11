@@ -1,14 +1,30 @@
 # Table of contents
 
 * [README](README.md)
+* [序（TODO)](xu-todo.md)
 
 ## 报考篇（TODO)
 
-* [如何考上香港大学？（TODO）](bao-kao-pian-todo/ru-he-kao-shang-xiang-gang-da-xue-todo.md)
-* [高考（TODO)](bao-kao-pian-todo/gao-kao-todo.md)
-* [IB(TODO)](bao-kao-pian-todo/ib-todo.md)
-* [AP(TODO)](bao-kao-pian-todo/ap-todo.md)
-* [Alevel(TODO)](bao-kao-pian-todo/alevel-todo.md)
+* [饮水思源](bao-kao-pian-todo/yin-shui-si-yuan/README.md)
+  * [高考（TODO)](bao-kao-pian-todo/yin-shui-si-yuan/gao-kao-todo.md)
+  * [IB(TODO)](bao-kao-pian-todo/yin-shui-si-yuan/ib-todo.md)
+  * [AP(TODO)](bao-kao-pian-todo/yin-shui-si-yuan/ap-todo.md)
+  * [Alevel(TODO)](bao-kao-pian-todo/yin-shui-si-yuan/alevel-todo.md)
+* [各专业介绍/安利（TODO)](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/README.md)
+  * [经管学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/jing-guan-xue-yuan.md)
+  * [文学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/wen-xue-yuan.md)
+  * [工院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/gong-yuan.md)
+  * [医学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/yi-xue-yuan.md)
+  * [牙医学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/ya-yi-xue-yuan.md)
+  * [法学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/fa-xue-yuan.md)
+  * [建筑学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/jian-zhu-xue-yuan.md)
+  * [教育学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/jiao-yu-xue-yuan.md)
+  * [理学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/li-xue-yuan.md)
+  * [社会科学学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/she-hui-ke-xue-xue-yuan.md)
+  * [生物医学工程学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/sheng-wu-yi-xue-gong-cheng-xue-yuan.md)
+  * [计算与数据科学学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/ji-suan-yu-shu-ju-ke-xue-xue-yuan.md)
+  * [治理与政策学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/zhi-li-yu-zheng-ce-xue-yuan.md)
+  * [创新学院](bao-kao-pian-todo/ge-zhuan-ye-jie-shao-an-li-todo/chuang-xin-xue-yuan.md)
 
 ## 新生篇
 
