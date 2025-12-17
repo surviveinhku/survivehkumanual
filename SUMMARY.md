@@ -67,11 +67,10 @@
 
 ## 日常篇
 
-* [如何优雅地系列合集](ri-chang-pian/ru-he-you-ya-di-xi-lie-he-ji/README.md)
-  * [住宿](ri-chang-pian/ru-he-you-ya-di-xi-lie-he-ji/zhu-su.md)
-  * [校园生活](ri-chang-pian/ru-he-you-ya-di-xi-lie-he-ji/xiao-yuan-sheng-huo.md)
-  * [娱乐](ri-chang-pian/ru-he-you-ya-di-xi-lie-he-ji/yu-le.md)
-  * [学业](ri-chang-pian/ru-he-you-ya-di-xi-lie-he-ji/xue-ye.md)
+* [住宿](ri-chang-pian/zhu-su.md)
+* [校园生活](ri-chang-pian/xiao-yuan-sheng-huo.md)
+* [娱乐](ri-chang-pian/yu-le.md)
+* [学业](ri-chang-pian/xue-ye.md)
 
 ***
 

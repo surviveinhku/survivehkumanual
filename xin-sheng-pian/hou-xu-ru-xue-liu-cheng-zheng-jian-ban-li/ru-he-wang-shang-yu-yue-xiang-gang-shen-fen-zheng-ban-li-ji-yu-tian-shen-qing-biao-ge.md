@@ -30,23 +30,19 @@
 
 
 
-根据 Visa 文件中 Notification Slip for Entry Visa / Permit 左上角显示的申请档案编号填写相关信息。\
-
+根据 Visa 文件中 Notification Slip for Entry Visa / Permit 左上角显示的申请档案编号填写相关信息。<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-0 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 <h3 align="center">三、确定办理时间及地点</h3>
 
-绝大多数同学会选择离港大最近的湾仔事务处进行办理。但因为同学必须在抵港 30 天内办理身份证, 如果发现湾仔事务处的时间没有空位, 可以尝试选择其他较远的办事处查找空位。\
-
+绝大多数同学会选择离港大最近的湾仔事务处进行办理。但因为同学必须在抵港 30 天内办理身份证, 如果发现湾仔事务处的时间没有空位, 可以尝试选择其他较远的办事处查找空位。<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-3.jpeg" alt=""><figcaption></figcaption></figure>
 
-点击位置、地图等查看办事处具体位置; 点击其他日期查看近期预约情况。\
-
+点击位置、地图等查看办事处具体位置; 点击其他日期查看近期预约情况。<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-4.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -54,8 +50,7 @@
 
 ![chunk-0-img-5.jpeg](../../.gitbook/assets/chunk-0-img-5.jpeg)
 
-确定好预约信息无误后，点击确认提交。\
-
+确定好预约信息无误后，点击确认提交。<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-6.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -184,8 +179,7 @@
 
 港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
 
-确认所有信息填写无误后，点击最下方的"确定"提交。提交后，可以保存一份预约详情备用。\
-
+确认所有信息填写无误后，点击最下方的"确定"提交。提交后，可以保存一份预约详情备用。<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-10.jpeg" alt=""><figcaption></figcaption></figure>
 

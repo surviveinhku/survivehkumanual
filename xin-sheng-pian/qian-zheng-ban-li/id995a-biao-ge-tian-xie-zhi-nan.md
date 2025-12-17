@@ -105,8 +105,7 @@
 * 关于 Deposit：如果财产证明的银行存款是在自己名字的账户下面(需要有 10 至 15 万人民币的存款)，请在第一栏 **Deposit Amount** 填写金额数目，简述可填"**applicant's saving**" 或不填。
 * 关于 Income：如果获得港大全额奖学金或免学费等其他奖学金，请在第二栏 **Income Amount** 填写奖学金数额(以每年为单位)，并在简述中说明奖学金种类。如果没有获得奖学金可填写 0 。
 * 如果是全奖，一般就可以不需要存款证明，即只用填第二栏 **Income**，第一栏 **Deposit**可不填。但如果是免学费及其他奖学金(金额低于全奖)，建议仍然需要准备一定数额的存款证明。每年的奖学金及存款的总额至少要达到要求的数额。但今年也有出现全奖被要求交存款证明的情况，所以建议如果条件允许可以准备一定数额的存款证明。
-*   关于 Others：如果财产证明的银行存款是在父母名字的账户下面(同上，需要有 10 至 15 万人民币的存款)，请在第三栏 **Others Amount** 填写金额数目，简述说明 "**sponsored by parents**"。**Financial Proof** 中的账户余额需 ⩾⩾ 填写的金额数。\
-
+*   关于 Others：如果财产证明的银行存款是在父母名字的账户下面(同上，需要有 10 至 15 万人民币的存款)，请在第三栏 **Others Amount** 填写金额数目，简述说明 "**sponsored by parents**"。**Financial Proof** 中的账户余额需 ⩾⩾ 填写的金额数。<br>
 
     <figure><img src="../../.gitbook/assets/chunk-0-img-4 (1).jpeg" alt=""><figcaption></figcaption></figure>
 * 在申请前一年内在香港修读了由拥有学位颁授权香港高等教育学院开办的短期课程的同学，请选择 YES 并写明课程名称，修读学校及修读时间，注意用英文填写。
@@ -127,8 +126,7 @@
 
 <mark style="color:red;">P5-P6 不用填写</mark>
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-6 (1).jpeg" alt=""><figcaption></figcaption></figure>
 

@@ -27,8 +27,7 @@ Portal 邮箱即后缀是 @connect.hku.hk 的邮箱，它是基于 Microsoft 邮
 
 ### 1. 登录 Portal
 
-点击此处前往 HKU Portal，使用邮件中提供的 Portal 邮箱和 PIN 登录。\
-
+点击此处前往 HKU Portal，使用邮件中提供的 Portal 邮箱和 PIN 登录。<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-0 (6).jpeg" alt=""><figcaption></figcaption></figure>
 

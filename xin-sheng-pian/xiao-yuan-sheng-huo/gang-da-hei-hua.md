@@ -48,4 +48,4 @@
 ### Reference
 
 1. 《现代港大词典》作者：刘春晖
-2. 香港网络大典大学术语（需要开梯子）[http://evchk.wikia.com/wiki/%E5%A4%A7%E5%AD%B8%E8%A1%93%E8%AA%9E](http://evchk.wikia.com/wiki/%E5%A4%A7%E5%AD%B8%E8%A1%93%E8%AA%9E)\
+2. 香港网络大典大学术语（需要开梯子）[http://evchk.wikia.com/wiki/%E5%A4%A7%E5%AD%B8%E8%A1%93%E8%AA%9E](http://evchk.wikia.com/wiki/%E5%A4%A7%E5%AD%B8%E8%A1%93%E8%AA%9E)<br>

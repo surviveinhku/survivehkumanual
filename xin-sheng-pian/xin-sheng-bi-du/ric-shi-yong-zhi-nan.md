@@ -4,8 +4,7 @@
 
 ### 一、公众号菜单栏
 
-打开RIC微信公众号 @港大RIC锐克，点击红圈所示"发消息"按钮，找到底部菜单栏（或点击红圈所示"键盘"按钮切换聊天框至菜单栏)\
-
+打开RIC微信公众号 @港大RIC锐克，点击红圈所示"发消息"按钮，找到底部菜单栏（或点击红圈所示"键盘"按钮切换聊天框至菜单栏)<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-0 (4).jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -22,8 +21,7 @@
 * 搜索平台:
 
 选课平台：RIC独家选课宝藏神器\
-RIC APP: "RIC杂货铺"功能介绍及下载指南\
-
+RIC APP: "RIC杂货铺"功能介绍及下载指南<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-2 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -39,8 +37,7 @@ RIC APP: "RIC杂货铺"功能介绍及下载指南\
 
 ## 二、公众号聊天框
 
-*   输入关键字获得相关推送\
-
+*   输入关键字获得相关推送<br>
 
     <figure><img src="../../.gitbook/assets/chunk-0-img-4 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 

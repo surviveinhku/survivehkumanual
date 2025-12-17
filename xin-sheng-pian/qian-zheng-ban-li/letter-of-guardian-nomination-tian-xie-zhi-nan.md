@@ -23,8 +23,7 @@
 
 如在港有永久性居民作为监护人，在第一个小方框打钩，填写好在港监护人的姓名、联系方式、住址，并阐明关系（划去 relationship 中不适当的选项）即可。
 
-注意要用大写!\
-
+注意要用大写!<br>
 
 <figure><img src="../../.gitbook/assets/2d37d2b137007c55c9047302c05d0a7.png" alt=""><figcaption></figcaption></figure>
 
