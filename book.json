@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "mygitalk"
+  ],
+  "pluginsConfig": {
+    "mygitalk": {
+        "clientID": "Ov23liKDy4Mu1E59994i",
+        "clientSecret": "ade23427592668e89b56e397154f64ef536dbf90",
+        "repo": "hkuuuu",
+        "owner": "surviveinhku",
+        "admin": ["surviveinhku"],
+        "distractionFreeMode": false
+    }
+  }
+}
