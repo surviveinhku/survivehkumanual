@@ -64,3 +64,6 @@ NOL分为两种：
 在办理前后出现任何疑问，都可以发送邮件至[enquiry@immd.gov.hk](mailto:enquiry@immd.gov.hk)及\
 [qmmr@immd.gov.hk](mailto:qmmr@immd.gov.hk)，或在工作时间拨打(+852) 22942048以联系ImmD。
 
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

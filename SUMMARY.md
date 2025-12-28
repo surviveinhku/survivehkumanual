@@ -59,7 +59,7 @@
 * [奇妙小教程（from RIC）](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/README.md)
   * [RIC 电话卡选择指南](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/ric-dian-hua-ka-xuan-ze-zhi-nan.md)
   * [科学上网](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/ke-xue-shang-wang.md)
-  * [宋奖申请攻略（TODO)](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/song-jiang-shen-qing-gong-le-todo.md)
+  * [宋奖申请攻略](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/song-jiang-shen-qing-gong-le-todo.md)
 * [校园生活](xin-sheng-pian/xiao-yuan-sheng-huo/README.md)
   * [港大黑话](xin-sheng-pian/xiao-yuan-sheng-huo/gang-da-hei-hua.md)
   * [移动支付缴学费（TODO)](xin-sheng-pian/xiao-yuan-sheng-huo/yi-dong-zhi-fu-jiao-xue-fei-todo.md)
@@ -75,3 +75,12 @@
 ***
 
 * [后记](hou-ji.md)
+
+## 浮世绘
+
+* [投稿汇总](fu-shi-hui/tou-gao-hui-zong.md)
+* [Page 1](fu-shi-hui/page-1.md)
+
+## HKU局/访谈集
+
+* [第零局](hku-ju-fang-tan-ji/di-ling-ju.md)

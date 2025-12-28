@@ -13,3 +13,7 @@
 [八校通|如何优雅使用JULAC读者卡](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247498178\&idx=1\&sn=e60dcaca8a7164a3c3aeb17de892ff80\&scene=21#wechat_redirect)
 
 [更新|跨年交通|如何优雅返屋企](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247497954\&idx=1\&sn=6be74e6930131064dc0d47028f0693aa\&scene=21#wechat_redirect)
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

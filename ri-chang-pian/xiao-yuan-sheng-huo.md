@@ -33,3 +33,7 @@
 [更新 | 如何优雅地在香港补换护照](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247501142\&idx=1\&sn=db9e604aaf4c77e530e6659cbf946f10\&scene=21#wechat_redirect)
 
 [如何优雅地预约校外HPV疫苗](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247500041\&idx=1\&sn=9633ad8fff9e9f51992fb8d1f539a0e7\&scene=21#wechat_redirect)
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

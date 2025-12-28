@@ -9,3 +9,7 @@
 [如何优雅地 (不被) quit hall](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247507677\&idx=2\&sn=08ec4e9c25a28ca56cb752248cfd2983\&scene=21#wechat_redirect)
 
 [如何优雅地申请租房补贴](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247503434\&idx=1\&sn=cae2109e611a545e4834951d04259d82\&scene=21#wechat_redirect)
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

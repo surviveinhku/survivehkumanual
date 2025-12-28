@@ -15,3 +15,7 @@
 [RIC花钱教程｜如何优雅地交学费](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247503939\&idx=1\&sn=7ec9f8ce50b8da2fed88579bc7ed6b5a\&scene=21#wechat_redirect)
 
 [干货|如何优雅地预约CAES语言服务](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247499633\&idx=1\&sn=9e9348a2e596e3dbe6e3ab9085ee88b6\&scene=21#wechat_redirect)
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

@@ -49,3 +49,7 @@
 
 1. 《现代港大词典》作者：刘春晖
 2. 香港网络大典大学术语（需要开梯子）[http://evchk.wikia.com/wiki/%E5%A4%A7%E5%AD%B8%E8%A1%93%E8%AA%9E](http://evchk.wikia.com/wiki/%E5%A4%A7%E5%AD%B8%E8%A1%93%E8%AA%9E)<br>
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

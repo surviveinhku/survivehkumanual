@@ -40,3 +40,7 @@
 | 购买点    | 711，Cycle K | <p>百 佳，屈 臣<br>氏，鸿福堂</p> | 711                         | 丰泽                          |
 | 套餐价格/月 | 38 HKD/60GB | 33 HKD/50GB             | <p>35 HKD/20GB<br>含低速任用</p> | <p>38 HKD/60GB<br>含低速任用</p> |
 | 网络提供商  | CMHK 4G     | 3HK 4G                  | CSL 4G                      | 3HK 4G                      |
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
