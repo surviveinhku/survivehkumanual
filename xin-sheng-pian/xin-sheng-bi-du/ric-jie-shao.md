@@ -60,4 +60,8 @@
 
 想要加入我们来一同为内地本科生维权益、谋福利嘛? 快快关注我们的微信公众号"港大 RIC 锐克"吧！我们将在九月发布招新信息呦～
 
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
+
 <br>

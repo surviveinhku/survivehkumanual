@@ -36,3 +36,7 @@
 3. 带有逗留签注的通行证通常在五-七个工作日后能够拿到。各地办理政策可能有出入，请大家搜索当地政府网站，或电话联系当地出入境大厅提前了解，避免影响之后来港行程。
 
 > 注：以上办理流程，是 RIC 在学校官网提供的材料和内地办理经验基础之上总结的建议版。官方的办理流程信息请参照网站：[http://www.studentvisa.hku.hk/mainland-student](http://www.studentvisa.hku.hk/mainland-student)
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

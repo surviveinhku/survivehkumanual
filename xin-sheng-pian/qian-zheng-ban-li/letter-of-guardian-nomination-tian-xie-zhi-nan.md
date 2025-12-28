@@ -36,3 +36,7 @@
 ![chunk-0-img-3.jpeg](<../../.gitbook/assets/chunk-0-img-3 (1) (1).jpeg>)
 
 > 编写人：B27 冯雪菲
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

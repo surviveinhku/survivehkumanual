@@ -99,3 +99,7 @@ GGPA 将有两种计算方案：GPA 最高的五门 CC 课（需要 cover 全部
 [https://commoncore.hku.hk/special-proviso/](https://commoncore.hku.hk/special-proviso/)\
 更多详细信息大家也可以复制以下链接至浏览器查看:\
 [http://commoncore.hku.hk/faqs/](http://commoncore.hku.hk/faqs/)
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

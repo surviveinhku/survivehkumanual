@@ -189,3 +189,7 @@
 下面为行李 checklist
 
 <figure><img src="../../.gitbook/assets/462bea77255c1b170eeb3d883cd3c56.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
