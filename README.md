@@ -70,4 +70,11 @@
 
 ***
 
+### 如何投稿？
+
+* 邮件发至riccssaud@gmail.com,主题注明“生存手册投稿 + Bxx （可选）+ 称呼（可选）”
+* 私信HKU生存手册后台，添加管理员联系方式。
+
+***
+
 _Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKU Survival Manual Team. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
