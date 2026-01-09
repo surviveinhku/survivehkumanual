@@ -1,6 +1,6 @@
 # Table of contents
 
-* [序](README.md)
+* [关于生存手册](README.md)
 * [更新日志](<README (1).md>)
 
 ## 浮世绘
