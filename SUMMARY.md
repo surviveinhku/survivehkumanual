@@ -27,7 +27,7 @@
   * [各hall详细介绍](xin-sheng-pian/xuan-hall-zhi-nan/ge-hall-xiang-xi-jie-shao.md)
 * [后续入学流程&证件办理](xin-sheng-pian/hou-xu-ru-xue-liu-cheng-zheng-jian-ban-li/README.md)
   * [Master Registration 指南](xin-sheng-pian/hou-xu-ru-xue-liu-cheng-zheng-jian-ban-li/master-registration-zhi-nan.md)
-  * [如何网上预约香港身份证办理及预填申请表格](xin-sheng-pian/hou-xu-ru-xue-liu-cheng-zheng-jian-ban-li/ru-he-wang-shang-yu-yue-xiang-gang-shen-fen-zheng-ban-li-ji-yu-tian-shen-qing-biao-ge.md)
+  * [如何网上预约香港身份证办理及预填申请表格(TODO)](xin-sheng-pian/hou-xu-ru-xue-liu-cheng-zheng-jian-ban-li/ru-he-wang-shang-yu-yue-xiang-gang-shen-fen-zheng-ban-li-ji-yu-tian-shen-qing-biao-ge.md)
 * [选课建议（各专业建议点击此处）](xin-sheng-pian/xuan-ke-jian-yi-ge-zhuan-ye-jian-yi-dian-ji-ci-chu/README.md)
   * [CCC选课指南](xin-sheng-pian/xuan-ke-jian-yi-ge-zhuan-ye-jian-yi-dian-ji-ci-chu/ccc-xuan-ke-zhi-nan.md)
   * [RIC 选课平台指南](xin-sheng-pian/xuan-ke-jian-yi-ge-zhuan-ye-jian-yi-dian-ji-ci-chu/ric-xuan-ke-ping-tai-zhi-nan.md)
