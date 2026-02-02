@@ -38,8 +38,8 @@
   * [宋奖申请攻略](xin-sheng-pian/qi-miao-xiao-jiao-cheng-from-ric/song-jiang-shen-qing-gong-le-todo.md)
 * [校园生活](xin-sheng-pian/xiao-yuan-sheng-huo/README.md)
   * [港大黑话](xin-sheng-pian/xiao-yuan-sheng-huo/gang-da-hei-hua.md)
-  * [移动支付缴学费（TODO)](xin-sheng-pian/xiao-yuan-sheng-huo/yi-dong-zhi-fu-jiao-xue-fei-todo.md)
-  * [港大主要教学区中英文对照（TODO)](xin-sheng-pian/xiao-yuan-sheng-huo/gang-da-zhu-yao-jiao-xue-qu-zhong-ying-wen-dui-zhao-todo.md)
+  * [移动支付缴学费](xin-sheng-pian/xiao-yuan-sheng-huo/yi-dong-zhi-fu-jiao-xue-fei-todo.md)
+  * [港大主要教学区中英文对照](xin-sheng-pian/xiao-yuan-sheng-huo/gang-da-zhu-yao-jiao-xue-qu-zhong-ying-wen-dui-zhao-todo.md)
 
 ## 日常篇
 
