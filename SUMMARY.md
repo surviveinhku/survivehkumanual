@@ -1,11 +1,6 @@
 # Table of contents
 
-* [关于生存手册](README.md)
-* [更新日志](<README (1).md>)
-
-## 浮世绘
-
-* [投稿汇总](fu-shi-hui/tou-gao-hui-zong.md)
+* [更新日志](README.md)
 
 ## 新生篇
 
@@ -52,11 +47,3 @@
 * [校园生活](ri-chang-pian/xiao-yuan-sheng-huo.md)
 * [娱乐](ri-chang-pian/yu-le.md)
 * [学业](ri-chang-pian/xue-ye.md)
-
-## HKU局/访谈集
-
-* [第零局](hku-ju-fang-tan-ji/di-ling-ju.md)
-
-***
-
-* [后记](hou-ji.md)
