@@ -2,7 +2,7 @@
 
 * [更新日志](README.md)
 
-## 新生篇
+## Freshman Guide
 
 * [新生必读](freshman/must-read/README.md)
   * [RIC介绍](freshman/must-read/ric-intro.md)
@@ -41,7 +41,7 @@
   * [移动支付缴学费](freshman/campus-life/tuition-payment.md)
   * [港大主要教学区中英文对照](freshman/campus-life/campus-map-bilingual.md)
 
-## 日常篇
+## Daily Life
 
 * [住宿](daily/accommodation.md)
 * [校园生活](daily/campus-life.md)
