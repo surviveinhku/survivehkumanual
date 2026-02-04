@@ -1,13 +1,5 @@
 # 2025签注办理指南
 
-这一部分的内容非常详实，但原始文本中夹杂了一些网页交互代码（如 "To pick up a draggable item..."）以及部分错别字（如“退留签”应为“逗留签”）。
-
-我已经为你剔除了冗余信息，按照 “新生阅读逻辑” 重新排版，重点突出了时间线和核心注意事项。
-
-***
-
-## RIC 港大新生指南：签证办理篇
-
 ### 一、 官方资源速递
 
 * 学校官方签证网站：[HKU Student Visa (Mainland)](https://www.studentvisa.hku.hk/mainland-student)
