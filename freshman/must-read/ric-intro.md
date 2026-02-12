@@ -2,8 +2,7 @@
 
 ***
 
-同学你好呀！香港大学内地本科生权益保障组 Rights and Interests Committee (RIC) 很高兴与你相遇！我们的职能有：
-**权益维护 | 学术生活干货分享 | 丰富多彩的福利与活动**
+同学你好呀！香港大学内地本科生权益保障组 Rights and Interests Committee (RIC) 很高兴与你相遇！我们的职能有：**权益维护 | 学术生活干货分享 | 丰富多彩的福利与活动**
  
 欢迎关注我们的微信公众号 **港大 RIC 锐克** 及同名小红书账号，获取更多实用信息，探索精彩港大生活！此外，我们还有 [**RIC 杂货铺** app](https://ricgrocery.richku.com/) 与 **RIC 选课平台**（[https://richku.com/](https://richku.com/)），内含查看 ddl、搜索课程评价等诸多功能，快来一探究竟！
 
