@@ -14,7 +14,7 @@
 
 八月上旬 / 中旬：
 
-* 收到 Freshman Registration 提醒邮件，准备相关材料，在网上完成其中的 [Master Registration](https://mp.weixin.qq.com/s/-M3pDenZmaTvA2uxjxagvw) 部分，激活Portal 账户。
+* 收到 Freshman Registration 提醒邮件，准备相关材料，在网上完成其中的 [Master Registration](https://mp.weixin.qq.com/s/-M3pDenZmaTvA2uxjxagvw) 部分，激活 Portal 账户。
 * 安排课表，选课（可以参考 RIC 群文件、RIC 杂货铺及选课平台相关内容)
 * 收到电邮发来的电子学生签注，至出入境管理部门申请逗留（D）签注
 
