@@ -118,7 +118,7 @@ Sample:
 
 <figure><img src="../../.gitbook/assets/d2f3e639e48b86e6e63732b434a8b85.png" alt=""><figcaption></figcaption></figure>
 
-### 乙部 Part B:
+### 乙部 Part B
 
 **P5-P6 不用填写**
 
