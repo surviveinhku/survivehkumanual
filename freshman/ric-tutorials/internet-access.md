@@ -28,7 +28,7 @@ use MFA
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +48,7 @@ use MFA
 
 港大VPN使用Cisco Secure Client应用程序进行连接，Cisco Secure Client 是由思科开发的一款综合性安全客户端软件，主要用于提供安全的远程访问和端点保护。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -113,12 +113,12 @@ _ios_
 
 Step 1 启动客户端，在栏内填写“vpn2fa.hku.hk”，点击Connect
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 2 通过Portal信息验证
 
 \
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Step 3 通过一次性验证码验证
 

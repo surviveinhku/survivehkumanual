@@ -22,7 +22,7 @@
   * [各 hall 详细介绍](freshman/hall-selection/hall-details.md)
 * [后续入学流程 & 证件办理](freshman/registration/README.md)
   * [Master Registration 指南](freshman/registration/master-registration-guide.md)
-  * [如何网上预约香港身份证办理及预填申请表格（TODO）](freshman/registration/hkid-application-guide.md)
+  * [如何网上预约香港身份证办理及预填申请表格](freshman/registration/hkid-application-guide.md)
 * [选课建议（各专业建议点击此处）](freshman/course-selection/README.md)
   * [CCC 选课指南](freshman/course-selection/common-core-guide.md)
   * [RIC 选课平台指南](freshman/course-selection/ric-course-platform.md)
