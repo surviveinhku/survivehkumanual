@@ -28,7 +28,7 @@
   * [RIC 选课平台指南](freshman/course-selection/ric-course-platform.md)
 * [来港准备 and 来港生活](freshman/preparation/README.md)
   * [新生来港物品清单](freshman/preparation/packing-list.md)
-  * [交通指南汇总（TODO）](freshman/preparation/transportation-guide.md)
+  * [交通指南汇总](freshman/preparation/transportation-guide.md)
   * [信用卡小对比](freshman/preparation/credit-card-comparison.md)
   * [过关方式](freshman/preparation/border-crossing.md)
   * [拿着 Student Visa 如何在香港打工](freshman/preparation/working-with-student-visa.md)
