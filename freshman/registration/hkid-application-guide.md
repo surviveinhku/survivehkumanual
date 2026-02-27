@@ -1,4 +1,4 @@
-# 如何网上预约香港身份证办理及预填申请表格(TODO)
+# 如何网上预约香港身份证办理及预填申请表格
 
 <mark style="color:red;">注：现在⽹上预约⾝份证办理名额⼗分紧缺，根据《⼈事登记条例》，除获豁免或⽆须登记</mark>\ <mark style="color:red;">的⼈⼠外，凡年满11岁或以上的⾹港居⺠（包括获准在⾹港逗留超过180天的⼈⼠），均</mark>\ <mark style="color:red;">须登记领取⾝份证。年满11岁或以上并获准在⾹港逗留超过180天的新抵港⼈⼠须在抵港</mark>\ <mark style="color:red;">后的30天内登记领取⾝份证。RIC强烈建议同学们及早进⾏预约。</mark>
 
@@ -21,20 +21,24 @@
 
 身份证预约共有 5 个步骤，首先在步骤 1 中输入信息。已满十八岁的同学，在申请类别选择中"首次登记身份证（持单程证人士除外）"及"持有效签证/进入许可的新来港人士（就读）"。
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+如未满十八岁，需选择"首次登记身份证（持单程证人士除外）"及"年满 11 岁申请"。<br>
 
-如未满十八岁，需选择"首次登记身份证（持单程证人士除外）"及"年满 11 岁申请"。\
-申部分：申请详情
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 在乙部分中选择"其他旅行证件"，并填写港澳通行证信息，只需要填写数字部分的最后六位数字（详情请点击右方的问号查看，如图后半部分）。
 
-
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 根据 Visa 文件中 Notification Slip for Entry Visa / Permit 左上角显示的申请档案编号填写相关信息。<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-0 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-<br>
+\
+填写完丙丁部分后，点击继续即可。
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <h3 align="center">三、确定办理时间及地点</h3>
 
@@ -60,53 +64,31 @@
 
 ## 四、登记表格填写
 
-![chunk-0-img-7.jpeg](../../.gitbook/assets/chunk-0-img-7.jpeg)
-
 提交预约后,在步骤 5 中点击绿色按键“开始”进入填写,点击下图中的申请人 1。
 
-| 步骤 4                       |   |    |   |
-| -------------------------- | - | -- | - |
-| 選擇辦理地點                     |   | 開始 |   |
-| 步骤 3                       |   |    |   |
-| 選擇預約時間                     |   |    |   |
-| 步骤 4                       |   |    |   |
-| 確認                         |   |    |   |
-| 步骤 5                       |   |    |   |
-| 預約詳情                       |   |    |   |
-| 步骤 6                       |   |    |   |
-| 選擇申請人                      |   |    |   |
-| 預約地點                       |   |    |   |
-| 港島辦事處(灣仔) 灣仔告士打道7號入境事務大樓8樓 |   |    |   |
-| 位置地圖與辦公時間                  |   |    |   |
-| 申請人數量                      |   |    |   |
-| 請選擇你希望為人事登記申請提供資料的申請人      |   |    |   |
-| 申請人 1                      |   |    |   |
-| 旅行證件: 8888889 (本部或退地)      |   |    |   |
+
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 申请人需要填写甲和乙部分。甲中的个人资料、香港地址和教育程度须填写。
 
-甲部 - 個人資料
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-你要為人事登記申請提供資料的身份證明文件及其號碼如下: 旅行證件: 6\*\*\*\*7
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-出生地點 \* | 請選擇 | I | 其他出生地 | |:---|:---|:---| | 甲報的國籍 \*| | 請選擇 | ▼ |
+香港住址需写明地区，校内各堂及第一、第二舍堂村位于中西区半山区；第三舍堂村、青莲台及蒲飞路学生宿舍位于中西区坚尼地城；沙宣道舍堂村位于南区薄扶林；黄竹坑新舍堂位于南区黄竹坑。楼宇名称填写宿舍名称即可。<br>
 
-職業 \* | 職業 | |:---|:---| | 香港住址 \*| | | 乘搭 | 聯絡電話號碼 | | 香港住址 | |
-
-香港業務地址(如適用) ▼
-
-港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
-
-![chunk-0-img-8.jpeg](../../.gitbook/assets/chunk-0-img-8.jpeg)
-
-香港住址需写明地区，校内各堂及第一、第二舍堂村位于中西区半山区；第三舍堂村、青莲台及蒲飞路学生宿舍位于中西区坚尼地城；沙宣道舍堂村位于南区薄扶林；黄竹坑新舍堂位于南区黄竹坑。楼宇名称填写宿舍名称即可。\
-![chunk-0-img-9.jpeg](../../.gitbook/assets/chunk-0-img-9.jpeg)
+<figure><img src="../../.gitbook/assets/chunk-0-img-9.jpeg" alt=""><figcaption></figcaption></figure>
 
 乙部的香港居留权特指可以在香港永久居住的权利，因而同学们需要在港逗留条件中选择 "学生"。但是，由于获准逗留日期在未入港前无法确定，需要同学首次使用学生签证入境并拿到 一张写有批准逗留日期的入境小白条（海关人员会将小白条和签证钉在一起），因此同学们可以暂时不填写此处信息，入港后补填。在是否居于香港连续七年或以上中选"否"。丙部不适用 则无需填写，点击"继续"。
 
-
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 下图为入境小白条,红框内为批准逗留日期:
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 确认所有信息填写无误后，点击最下方的"确定"提交。提交后，可以保存一份预约详情备用。<br>
 
