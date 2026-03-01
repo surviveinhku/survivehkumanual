@@ -12,7 +12,7 @@
 
 ### （2）登录个人缴费界面
 
-在登录界面中选择Bill Type（如01为学费，03为住宿费，等等），反复检查不要填错，否则退款手续非常麻烦。然后填写Bill Account No.（通常为十位学生证号+9999），选择金额（单位为HKD），就可以进入缴费界面啦。
+在缴费信息填写界面中选择Bill Type（如01为学费，03为住宿费，等等），反复检查不要填错，否则退款手续非常麻烦。然后填写Bill Account No.（通常为十位学生证号+9999），选择金额（单位为HKD），就可以进入缴费界面啦。
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
