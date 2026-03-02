@@ -8,7 +8,7 @@
 
 > 深圳地铁线路图
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
 
 > 香港地铁线路图
 
@@ -168,7 +168,7 @@ ii) 经蛇⼝/其他内陆港⼝⾄港澳码头：
 
 * 乘坐地点：机场巴⼠站
 * 所需时间：⼤约1 ⼩时
-* 花费：31 港币（N11）+约 40 港币（的⼠）
+* 花费：32.1 港币（N11）+约 40 港币（的⼠）
 * 特点：  \
   夜间可乘坐的巴⼠
 
