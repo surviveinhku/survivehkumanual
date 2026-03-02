@@ -1,11 +1,11 @@
 # 如何网上预约香港身份证办理及预填申请表格
 
-<mark style="color:red;">注：现在⽹上预约⾝份证办理名额⼗分紧缺，根据《⼈事登记条例》，除获豁免或⽆须登记</mark>\ <mark style="color:red;">的⼈⼠外，凡年满11岁或以上的⾹港居⺠（包括获准在⾹港逗留超过180天的⼈⼠），均</mark>\ <mark style="color:red;">须登记领取⾝份证。年满11岁或以上并获准在⾹港逗留超过180天的新抵港⼈⼠须在抵港</mark>\ <mark style="color:red;">后的30天内登记领取⾝份证。RIC强烈建议同学们及早进⾏预约。</mark>
+<mark style="color:red;">注：现在⽹上预约⾝份证办理名额⼗分紧缺，根据《⼈事登记条例》，除获豁免或⽆须登记的⼈⼠外，凡年满11岁或以上的⾹港居⺠（包括获准在⾹港逗留超过180天的⼈⼠），均须登记领取⾝份证。年满11岁或以上并获准在⾹港逗留超过180天的新抵港⼈⼠须在抵港后的30天内登记领取⾝份证。RIC强烈建议同学们及早进⾏预约。</mark>
 
 <h3 align="center">一、登录香港政府一站通网站</h3>
 
 复制下方链接至浏览器，进入香港政府一站通网站：\
-[https://www.gov.hk/tc/residents/immigration/idcard/hkic/bookregidcard.htm](https://www.gov.hk/tc/residents/immigration/idcard/hkic/bookregidcard.htm)
+[https://www.gov.hk/tc/residents/immigration/idcard/hkic/bookregidcard.htm](https://www.gov.hk/tc/residents/immigration/idcard/hkic/bookregidcard.html)
 
 如果觉得看繁体字或英文不便，可将语言调成简体中文。此外，由于在线预约系统需要浏览器 Cookie 打开并将使用 JavaScript，如果后续申请出现无法继续等问题，大家可以调整浏览器设置或更换浏览器重试。
 
@@ -96,7 +96,7 @@
 
 <h3 align="center">五、办理提示</h3>
 
-1. 朱满十八岁的申请者需要在父母或其他法定监护人陪同下到事务处进行身份证的申请 **（详情见下方未成年专题）**。
+1. 未满十八岁的申请者需要在父母或其他法定监护人陪同下到事务处进行身份证的申请 **（详情见下方未成年专题）**。
 2. 请大家务必按照预约时间前往事务处办理；如果因故无法在预约的时间内出席，在上述网站上更改或取消预约即可，最迟在预约日期的**前一天**更改或取消。
 3. 验证预约身份时可以出示最后确认时的表格，也可以提供申请使用的**旅行证件**进行验证。
 4. 周六事务处只在上午办公，请同学们在预约办理身份证时注意事务处办公时间。
