@@ -40,7 +40,7 @@ use MFA
 
 > 注：此后如需修改alternate邮箱地址，步骤与以上所示首次登记步骤基本相同。
 
-二、下载VPN客户端
+### 二、下载VPN客户端
 
 > 注：若此前已经下载过客户端可以选择跳过此步
 
@@ -77,7 +77,8 @@ iOS [https://apps.apple.com/us/app/cisco-secure-client/id1135064690](https://app
 
 ***
 
-三、安装客户端并连接\
+### 三、安装客户端并连接&#xD;<br>
+
 由于不同设备的安装与连接方式不尽相同，大家可以复制以下链接至浏览器查看详细教程
 
 [https://www.its.hku.hk/documentation/guide/network/remote/hkuvpn2fa](https://www.its.hku.hk/documentation/guide/network/remote/hkuvpn2fa)
