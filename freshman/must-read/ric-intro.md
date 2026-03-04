@@ -3,8 +3,9 @@
 ***
 
 同学你好呀！香港大学内地本科生权益保障组 Rights and Interests Committee (RIC) 很高兴与你相遇！我们的职能有：
-<p style="font-weight: bold;" align="center"> 权益维护 | 学术生活干货分享 | 丰富多彩的福利与活动 </p>
- 
+
+<p align="center">权益维护 | 学术生活干货分享 | 丰富多彩的福利与活动</p>
+
 欢迎关注我们的微信公众号 **港大 RIC 锐克** 及同名小红书账号，获取更多实用信息，探索精彩港大生活！此外，我们还有 [**RIC 杂货铺** app](https://ricgrocery.richku.com/) 与 [**RIC 选课平台**](https://richku.com/)），内含查看 ddl、搜索课程评价等诸多功能，快来一探究竟！
 
 ***
@@ -17,7 +18,9 @@
 
 香港大学内地本科生权益保障组（RIC）第十五届执行委员会由二十一名执委共同组成，设权益部和生活部。现有职位分别是：组长、外务、常务、内务、活动策办、新媒体、美工设计、程序员。执行委员会内部架构如下:
 
-<figure><img src="../../.gitbook/assets/chunk-0-img-0 (3).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4a1a5e4ebfe8b3cbedbc34f96b8bdb05.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 三、RIC 大事记
 
