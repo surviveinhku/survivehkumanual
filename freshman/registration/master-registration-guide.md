@@ -73,7 +73,7 @@ Portal 邮箱即后缀是 @connect.hku.hk 的邮箱，它是基于 Microsoft 邮
 
 以下是两份学校官方的指南
 
-{% file src="../../.gitbook/assets/5.2.1 Guideline_to_online_Master_Registration.pdf" %}
+{% file src="../../.gitbook/assets/Guide to Online Master Registration.pdf" %}
 
 {% file src="../../.gitbook/assets/5.2.2 student registration guideline.pdf" %}
 

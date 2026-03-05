@@ -24,7 +24,7 @@
   * [Master Registration 指南](freshman/registration/master-registration-guide.md)
   * [如何网上预约香港身份证办理及预填申请表格](freshman/registration/hkid-application-guide.md)
 * [选课建议（各专业建议点击此处）](freshman/course-selection/README.md)
-  * [CCC 选课指南](freshman/course-selection/common-core-guide.md)
+  * [CC 选课指南](freshman/course-selection/common-core-guide.md)
   * [RIC 选课平台指南](freshman/course-selection/ric-course-platform.md)
 * [来港准备 and 来港生活](freshman/preparation/README.md)
   * [新生来港物品清单](freshman/preparation/packing-list.md)

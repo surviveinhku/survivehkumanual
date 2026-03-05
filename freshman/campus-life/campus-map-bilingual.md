@@ -26,7 +26,7 @@
 | KA/KBSB       | Kadoorie Biological Sciences Building | 嘉道理生物科学大楼               |
 | KB            | Knowles Building                      | 钮鲁诗楼                    |
 | LE            | Library Extension Building            | 香港大学图书馆延伸大楼             |
-| KK            | K.K.Leung Building                    | 梁球锯楼                    |
+| KK            | K.K.Leung Building                    | 梁銶琚楼                    |
 | MB            | Main Building                         | 主楼                      |
 | PSL           | Pao Siu Loong Building                | 包兆龙楼                    |
 | TT/TS         | T.T.Tsui Building                     | 徐展堂楼                    |
