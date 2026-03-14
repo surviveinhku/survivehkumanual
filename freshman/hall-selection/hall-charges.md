@@ -25,7 +25,7 @@
 
 <p align="right">July 2024</p>
 
-> 凭借我的直觉判断，第一次看到这个表的时候你们多半没法把舍堂的中文名和英文名对照起来，但是我并没有打算给你们附上中英对照版，因为我要去港大B2口吃麦当劳了。
+
 
 <figure><img src="../../.gitbook/assets/cf53f87f7af1145a6fbe33fc34b185d.png" alt=""><figcaption></figcaption></figure>
 
