@@ -1,6 +1,7 @@
 # Table of contents
 
-* [更新日志](README.md)
+* [序](README.md)
+* [更新日志](<README (1).md>)
 
 ## Freshman Guide
 
